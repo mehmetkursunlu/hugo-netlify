@@ -1,5 +1,5 @@
 baseURL = "/"
-publishDir = "dist"
+publishDir = "public"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "learn"
